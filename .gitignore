@@ -1,0 +1,7 @@
+connections.py
+__pycache__/
+migrations/
+some.py
+*.txt
+*~
+db.sqlite3
