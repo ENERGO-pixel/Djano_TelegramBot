@@ -18,3 +18,7 @@ Start bot menu
 
  ![image](https://user-images.githubusercontent.com/84539797/213679582-b561159e-07d9-48b8-b342-d44cd14ac114.png)
 
+
+Selecting products and buying them
+
+![image](https://user-images.githubusercontent.com/84539797/213680568-167136dc-f03c-4691-934e-71405bfec0f5.png)
