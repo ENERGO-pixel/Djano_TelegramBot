@@ -14,6 +14,7 @@ Implementation of a gym in the form of a telegram bot,
 
 
 Start bot menu
-<p align="center">
+
+
  ![image](https://user-images.githubusercontent.com/84539797/213679582-b561159e-07d9-48b8-b342-d44cd14ac114.png)
-</p>
+
