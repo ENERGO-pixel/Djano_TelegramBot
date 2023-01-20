@@ -13,6 +13,5 @@ Implementation of a gym in the form of a telegram bot,
 * Usable through the admin panell
 Start bot menu
 
-<p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/84539797/213678678-1cf767f0-c781-4a61-b26d-df93ba3b853b.png)
-">
+ ![image](https://user-images.githubusercontent.com/84539797/213679582-b561159e-07d9-48b8-b342-d44cd14ac114.png)
+
